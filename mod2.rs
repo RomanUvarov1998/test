@@ -1,3 +1,3 @@
 pub fn f1(a: u8, b: u8) -> u8 {
-	a + b
+	(a + b) / 2
 } 
