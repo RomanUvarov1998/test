@@ -1,6 +1,7 @@
 fn main() {
 	println!("hello");
 }
+
 fn foo() {
 
 }
@@ -35,3 +36,7 @@ f
 222222222
 333333333
 444444444
+
+fn woow(){
+	println!("fuck!!!");	
+}
