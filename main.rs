@@ -1,1 +1,3 @@
-tototo
+fn main() {
+	println!("hello");
+}
